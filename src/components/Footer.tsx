@@ -13,8 +13,8 @@ const Footer = () => {
             </p>
             <div className="flex items-center">
               <Mail className="h-5 w-5 mr-2" />
-              <a href="mailto:info@krinixcloud.com" className="hover:text-white">
-                info@krinixcloud.com
+              <a href="mailto:support@krinixcloud.host" className="hover:text-white">
+                support@krinixcloud.host
               </a>
             </div>
           </div>
@@ -24,9 +24,8 @@ const Footer = () => {
             <ul className="space-y-2">
               <li><a href="#minecraft" className="hover:text-white">Minecraft Hosting</a></li>
               <li><a href="#vps" className="hover:text-white">VPS Hosting</a></li>
-              <li><a href="#" className="hover:text-white">Game Servers</a></li>
-              <li><a href="#" className="hover:text-white">Web Hosting</a></li>
-              <li><a href="#" className="hover:text-white">Dedicated Servers</a></li>
+              <li><a href="https://discord.gg/BQ62kYDpQy" className="hover:text-white">Web Hosting</a></li>
+              <li><a href="https://discord.gg/BQ62kYDpQy" className="hover:text-white">Dedicated Servers</a></li>
             </ul>
           </div>
           
@@ -34,28 +33,28 @@ const Footer = () => {
             <h3 className="text-lg font-semibold text-white mb-4">Company</h3>
             <ul className="space-y-2">
               <li><a href="#about" className="hover:text-white">About Us</a></li>
-              <li><a href="#" className="hover:text-white">Blog</a></li>
-              <li><a href="#" className="hover:text-white">Careers</a></li>
+              <li><a href="https://discord.gg/BQ62kYDpQy" className="hover:text-white">Blog</a></li>
+              <li><a href="https://discord.gg/BQ62kYDpQy" className="hover:text-white">Careers</a></li>
               <li><a href="#contact" className="hover:text-white">Contact Us</a></li>
-              <li><a href="#" className="hover:text-white">Terms of Service</a></li>
-              <li><a href="#" className="hover:text-white">Privacy Policy</a></li>
+              <li><a href="https://discord.gg/BQ62kYDpQy" className="hover:text-white">Terms of Service</a></li>
+              <li><a href="https://discord.gg/BQ62kYDpQy" className="hover:text-white">Privacy Policy</a></li>
             </ul>
           </div>
           
           <div>
             <h3 className="text-lg font-semibold text-white mb-4">Customer Support</h3>
             <ul className="space-y-2">
-              <li><a href="#" className="hover:text-white">Help Center</a></li>
-              <li><a href="#" className="hover:text-white">Knowledge Base</a></li>
-              <li><a href="#" className="hover:text-white">Server Status</a></li>
-              <li><a href="#" className="hover:text-white">Submit Ticket</a></li>
-              <li><a href="#" className="hover:text-white">Client Area</a></li>
+              <li><a href="https://discord.gg/BQ62kYDpQy" className="hover:text-white">Help Center</a></li>
+              <li><a href="https://discord.gg/BQ62kYDpQy" className="hover:text-white">Knowledge Base</a></li>
+              <li><a href="https://discord.gg/BQ62kYDpQy" className="hover:text-white">Server Status</a></li>
+              <li><a href="https://discord.gg/BQ62kYDpQy" className="hover:text-white">Submit Ticket</a></li>
+              <li><a href="https://client.krinixcloud.host" className="hover:text-white">Client Area</a></li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-800 mt-10 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; 2023 KrinixCloud. All rights reserved.</p>
+          <p>&copy; 2025 KrinixCloud. All rights reserved.</p>
           <div className="mt-4 md:mt-0 flex space-x-4">
             <a href="#" className="hover:text-white">Facebook</a>
             <a href="#" className="hover:text-white">Twitter</a>
