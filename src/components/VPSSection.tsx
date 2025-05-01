@@ -6,61 +6,58 @@ import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 const vpsPlans = [
   {
     name: "Basic VPS",
-    price: 9.99,
+    price: 11,
     cpu: 2,
-    ram: 2,
-    storage: 40,
-    bandwidth: 1,
+    ram: 16,
+    storage: 200,
+    bandwidth: 0,
     features: [
       "2 vCPU Cores",
-      "2GB RAM",
-      "40GB NVMe SSD",
-      "1TB Bandwidth",
+      "16GB RAM",
+      "200GB NVMe SSD",
+      "∞TB Bandwidth",
       "99.9% Uptime",
-      "Linux or Windows OS",
-      "1 Dedicated IPv4"
+      "Linux OS",
+      "1 Dedicated IPv4",
+      "DDOS PROTECTION"
     ],
     popular: false
   },
   {
-    name: "Business VPS",
-    price: 24.99,
+    name: "Essentials VPS",
+    price: 16,
     cpu: 4,
-    ram: 8,
-    storage: 80,
-    bandwidth: 3,
+    ram: 32,
+    storage: 500,
+    bandwidth: 0,
     features: [
       "4 vCPU Cores",
-      "8GB RAM",
-      "80GB NVMe SSD",
-      "3TB Bandwidth",
+      "16GB RAM",
+      "500GB NVMe SSD",
+      "∞TB Bandwidth",
       "99.9% Uptime",
-      "Linux or Windows OS",
+      "Linux OS",
       "1 Dedicated IPv4",
-      "DDoS Protection",
-      "Daily Backups"
+      "DDoS Protection"
     ],
     popular: true
   },
   {
     name: "Enterprise VPS",
-    price: 49.99,
+    price: 23,
     cpu: 8,
-    ram: 16,
-    storage: 160,
-    bandwidth: 5,
+    ram: 64,
+    storage: 500,
+    bandwidth: 0,
     features: [
       "8 vCPU Cores",
-      "16GB RAM",
-      "160GB NVMe SSD",
-      "5TB Bandwidth",
+      "64GB RAM",
+      "500GB NVMe SSD",
+      "∞TB Bandwidth",
       "99.9% Uptime",
-      "Linux or Windows OS",
+      "Linux OS",
       "1 Dedicated IPv4",
-      "DDoS Protection",
-      "Daily Backups",
-      "Priority Support",
-      "Resource Monitoring"
+      "DDoS Protection"
     ],
     popular: false
   }
