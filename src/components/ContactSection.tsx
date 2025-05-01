@@ -112,8 +112,8 @@ const ContactSection = () => {
                   <Mail className="h-5 w-5 text-krinix-600 mr-3" />
                   <div>
                     <p className="font-medium">Email</p>
-                    <a href="mailto:support@krinixcloud.com" className="text-krinix-600 hover:underline">
-                      support@krinixcloud.com
+                    <a href="mailto:support@krinixcloud.host" className="text-krinix-600 hover:underline">
+                      support@krinixcloud.host
                     </a>
                   </div>
                 </div>
@@ -121,8 +121,8 @@ const ContactSection = () => {
                   <Phone className="h-5 w-5 text-krinix-600 mr-3" />
                   <div>
                     <p className="font-medium">Phone</p>
-                    <a href="tel:+1234567890" className="text-krinix-600 hover:underline">
-                      +1 (234) 567-890
+                    <a href="tel:+8801920785682" className="text-krinix-600 hover:underline">
+                      +880 1920-785682
                     </a>
                   </div>
                 </div>
@@ -131,8 +131,8 @@ const ContactSection = () => {
                   <div>
                     <p className="font-medium">Location</p>
                     <p className="text-gray-600">
-                      123 Server Avenue<br />
-                      New York, NY 10001
+                      Bramondi Sharpara<br />
+                      Narayanganj, BD 1450
                     </p>
                   </div>
                 </div>
