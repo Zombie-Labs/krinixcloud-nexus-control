@@ -6,14 +6,14 @@ import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 const minecraftPlans = [
   {
     name: "Starter",
-    price: 5.99,
+    price: 1.18,
     ram: 2,
     players: 10,
-    storage: 15,
+    storage: 5,
     features: [
       "2GB RAM",
       "10 Player Slots",
-      "15GB SSD Storage",
+      "5GB NVMe Storage",
       "Unlimited Traffic",
       "Basic Plugin Support",
       "24/7 Support"
@@ -22,14 +22,14 @@ const minecraftPlans = [
   },
   {
     name: "Premium",
-    price: 12.99,
+    price: 2.36,
     ram: 4,
     players: 25,
-    storage: 30,
+    storage: 10,
     features: [
       "4GB RAM",
       "25 Player Slots",
-      "30GB SSD Storage",
+      "10GB NVMe Storage",
       "Unlimited Traffic",
       "Advanced Plugin Support",
       "24/7 Premium Support",
@@ -40,20 +40,19 @@ const minecraftPlans = [
   },
   {
     name: "Pro",
-    price: 24.99,
+    price: 4.73,
     ram: 8,
     players: 50,
-    storage: 50,
+    storage: 20,
     features: [
       "8GB RAM",
       "50 Player Slots",
-      "50GB SSD Storage",
+      "20GB SSD Storage",
       "Unlimited Traffic",
       "Advanced Plugin Support",
       "24/7 Premium Support",
       "DDoS Protection",
       "Daily Backups",
-      "Dedicated IP",
       "Priority Support"
     ],
     popular: false
