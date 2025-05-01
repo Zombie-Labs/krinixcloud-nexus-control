@@ -13,10 +13,12 @@ const CTASection = () => {
             Join thousands of satisfied customers who trust KrinixCloud for their hosting needs.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
+          <Link href="#">
             <Button size="lg" className="bg-white text-krinix-900 hover:bg-gray-100">
               Get Started Now
             </Button>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-krinix-700">
+          <Link href="https://discord.gg/BQ62kYDpQy">
+            <Button size="lg" className="bg-white text-krinix-900 hover:bg-gray-100">
               Contact Sales
             </Button>
           </div>
